@@ -1,0 +1,62 @@
+﻿/**
+*
+*	Name:			IRANYekan Font
+*	Version:			3.0
+*	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+*	Created on:		Dec 20, 2018
+*	Updated on:		Dec 20, 2018
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونت ایران یکان یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+IRANYekan fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com 
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: (.....)
+--------------------------------------------------------------------------------------
+*	
+**/
+
+
+
+
+@font-face {
+	font-family: yknNormal;
+	font-style: normal;
+	font-weight: 800;
+	src: url('../fonts/yn/YekanBakh-News.eot');
+	src: url('../fonts/yn/YekanBakh-News.eot?#iefix') format('embedded-opentype'),
+		/* IE6-8 */
+		url('../fonts/yn/YekanBakh-News.woff2') format('woff2'),
+		url('../fonts/yn/YekanBakh-News.woff') format('woff'),
+		/* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		url('../fonts/yn/YekanBakh-News.ttf') format('truetype');
+}
+
+
+@font-face {
+	font-family: yknBold;
+	font-style: normal;
+	font-weight: 800;
+	src: url('../fonts/yn/YekanBakh-Bold.eot');
+	src: url('../fonts/yn/YekanBakh-Bold.eot?#iefix') format('embedded-opentype'),
+		/* IE6-8 */
+		url('../fonts/yn/YekanBakh-Bold.woff2') format('woff2'),
+		url('../fonts/yn/YekanBakh-Bold.woff') format('woff'),
+		/* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		url('../fonts/yn/YekanBakh-Bold.ttf') format('truetype');
+}
+
+
+@font-face {
+	font-family: yknFat;
+	font-style: normal;
+	font-weight: 800;
+	src: url('../fonts/yn/YekanBakh-Fat.eot');
+	src: url('../fonts/yn/YekanBakh-Fat.eot?#iefix') format('embedded-opentype'),
+		/* IE6-8 */
+		/* url('../fonts/yn/YekanBakh-Fat.woff2') format('woff2'), */
+		url('../fonts/yn/YekanBakh-Fat.woff') format('woff'),
+		/* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		url('../fonts/yn/YekanBakh-Fat.ttf') format('truetype');
+}

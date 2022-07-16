@@ -1,0 +1,10 @@
+Database Created
+
+Details
+
+Your database has been setup. Use the following values:
+
+Database:	pancom_dbsonia
+Host:	localhost
+Username:	pancom_usonia
+Password:	pPYZjg4pE
